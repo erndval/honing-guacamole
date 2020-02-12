@@ -12,4 +12,4 @@ def birthday(s, d, m)
     arrangements
 end
 
-birthday([2,12,1], 1, 1)
+birthday([2,7,1], 1, 1)
