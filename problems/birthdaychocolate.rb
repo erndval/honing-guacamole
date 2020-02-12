@@ -11,3 +11,5 @@ def birthday(s, d, m)
     end
     arrangements
 end
+
+birthday([2,12,1], 1, 1)
